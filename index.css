@@ -1,0 +1,230 @@
+ .flex-container {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 20px 50px;
+     color: white;
+     z-index: 10;
+     margin-top: -20px;
+ }
+ .flex-items {
+     margin: 5px;
+     color: rgb(255, 255, 255);
+     font-weight: 900;
+     font-size: 18px;
+ }
+ .kk{
+    position: absolute;
+    left: 0;
+    top: -500px;
+    z-index: -1;
+ }
+ .oo{
+    position: relative;
+ }
+ .items {
+     display: flex;
+     column-gap: 60px;
+     gap: 30px;
+     margin-right: 120px;
+ }
+
+ .ki {
+     background-size: cover;
+     width: 1510px;
+     height: 800px;
+     position: relative;
+ }
+
+ body {
+     margin: 0;
+     padding: 0;
+ }
+
+ button {
+     height: 24px;
+     margin-top: 13px;
+     color: white;
+     background-color: rgb(22, 103, 255);
+     border: 1px;
+     border-radius: 5px;
+     font-size: 17px;
+     margin-top: -10px;
+ }
+
+ button:hover {
+     background-color: orange;
+ }
+
+ .flex-items:hover {
+     color: orange;
+ }
+
+ .main-block {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     text-align: center;
+     padding: 310px 600px;
+     color: white;
+     z-index: 10;
+     font-size: 30px;
+     line-height: 20px;
+ }
+
+ .lin {
+     font-size: 100px;
+ }
+
+ .zin {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     padding: 600px 1440px;
+     color: white;
+     z-index: 10;
+     margin-left: -700px;
+     margin-top: 300px;
+ }
+
+ .fin {
+     width: 600px;
+     font-size: 20px;
+     word-spacing: 5px;
+     letter-spacing: 0px;
+     line-height: 28px;
+     margin-top: 30px;
+ }
+
+ .xin {
+     font-size: 25px;
+     line-height: 35px;
+     font-weight: 500;
+ }
+
+ .rin {
+     display: flex;
+     column-gap: 50px;
+     justify-content: space-evenly;
+     margin-left: -600px;
+
+ }
+
+ .uin {
+     width: 700px;
+     margin-top: -50px;
+ }
+
+ .pin {
+     text-align: center;
+ }
+
+ .pin {
+     font-size: 25px;
+     line-height: 35px;
+     font-weight: 500;
+ }
+
+ .exp {
+     border: 1px solid;
+     height: 120px;
+     width: 110px;
+     border-radius: 5px;
+     font-size: 19px;
+     visibility: hidden;
+ }
+ .ain{
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+ }
+ .i{
+    visibility: visible;
+ }
+ .exp:hover{
+    color: orange;
+    visibility: visible;
+ }
+ .t{
+    visibility: visible;
+ }
+ .t:hover{
+    color: orange;
+ }
+ .win{
+    margin-top: 40px;
+ }
+ .eop{
+    border: 1px solid;
+     height: 120px;
+     width: 110px;
+     border-radius: 5px;
+     font-size: 19px;
+     border-color: orange;
+ }
+ .eee{
+    display: flex;
+    margin-left: 140px;
+    gap: 30px;
+
+ }
+ .pli{
+    width: 500px;
+    height: 300px;
+ }
+ .zzi{
+    width: 200px;
+    font-size: 20px;
+ }
+ .vvv{
+    /* margin-left: 700px; */
+ }
+ .hhu{
+    display: flex;
+ }
+ .rru{
+    margin-top: 20px;
+    margin-left: 70px;
+    background-color: rgb(255, 182, 93);
+    color: black;
+ }
+ .xxe{
+    display: flex;
+ }
+ .yyt{
+    /* display: flex; */
+ }
+ .aap{
+    width: 500px;
+    background-color: black;
+ }
+.gin{
+    margin-top: 600px;
+}
+.flu-item{
+        width: 1525px;
+        height: 1000px;
+        background-color: black;
+        color: white;
+}
+.iwilldo{
+    font-size: 25px;
+}
+.portt{
+    font-size: 50px;
+}
+.ttt{
+    color: white;
+    text-align: center;   
+}
